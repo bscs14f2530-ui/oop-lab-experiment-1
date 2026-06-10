@@ -9,6 +9,7 @@ Takes input for 3 employees
 Displays employee details in a formatted output
 Uses structure (struct) for data grouping
 Uses a separate function for display
+
 🛠️ Technologies Used
 C++
 iostream (standard input/output library)
@@ -28,6 +29,7 @@ Step 1: Compile the program
 g++ filename.cpp -o employee
 Step 2: Run the program
 ./employee
+
 💻 Sample Input
 Enter details for Employee 1:
 Employee Number: 101
@@ -46,10 +48,12 @@ Employee Details:
 
 ------------------------
 Employee Number: 101
+
 Compensation: 50000$
 ------------------------
 ------------------------
 Employee Number: 102
+
 Compensation: 60000$
 ------------------------
 ------------------------
