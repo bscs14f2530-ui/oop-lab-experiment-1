@@ -50,13 +50,14 @@ Employee Details:
 Employee Number: 101
 
 Compensation: 50000$
-------------------------
+
 ------------------------
 Employee Number: 102
 
 Compensation: 60000$
-------------------------
+
 ------------------------
 Employee Number: 103
+
 Compensation: 55000$
-------------------------
+
