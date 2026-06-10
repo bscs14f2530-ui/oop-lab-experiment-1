@@ -40,6 +40,7 @@ Compensation: 60000
 Enter details for Employee 3:
 Employee Number: 103
 Compensation: 55000
+
 📤 Sample Output
 Employee Details:
 
